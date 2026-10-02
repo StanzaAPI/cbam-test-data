@@ -1,0 +1,819 @@
+{
+  "name": "CBAM Test Data",
+  "description": "Rows for CBAM reporting tests: declaration id, CN code, quantity, unit, embedded emissions, and country of origin. Synthetic values.",
+  "source": "https://stanzaapi.com/datasets/cbam",
+  "license": "CC0-1.0",
+  "validity": "structurally-synthetic",
+  "size": "small",
+  "count": 100,
+  "columns": [
+    "declaration_id",
+    "cn_code",
+    "quantity",
+    "unit",
+    "embedded_emissions_kgco2e",
+    "country_of_origin"
+  ],
+  "rows": [
+    {
+      "declaration_id": "CBAM-01294820",
+      "cn_code": "25232900",
+      "quantity": 586.6,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1436.117,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-86462882",
+      "cn_code": "72083900",
+      "quantity": 633.434,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1706.3,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-97000200",
+      "cn_code": "76011000",
+      "quantity": 82.062,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 578.971,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-29967600",
+      "cn_code": "28070010",
+      "quantity": 611.596,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 5008.451,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-93183516",
+      "cn_code": "31021000",
+      "quantity": 531.199,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 108.1,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-85706922",
+      "cn_code": "27160000",
+      "quantity": 518.38,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4855.116,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-57192171",
+      "cn_code": "25232900",
+      "quantity": 706.672,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1046.76,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-76872265",
+      "cn_code": "72083900",
+      "quantity": 735.723,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 606.963,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-74541746",
+      "cn_code": "76011000",
+      "quantity": 552.629,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1824.874,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-01882131",
+      "cn_code": "28070010",
+      "quantity": 630.705,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1794.077,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-02895156",
+      "cn_code": "31021000",
+      "quantity": 867.446,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2654.158,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-91466170",
+      "cn_code": "27160000",
+      "quantity": 566.907,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2287.243,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-92365110",
+      "cn_code": "25232900",
+      "quantity": 841.251,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1341.262,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-24748380",
+      "cn_code": "72083900",
+      "quantity": 1.929,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2618.93,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-77522338",
+      "cn_code": "76011000",
+      "quantity": 940.523,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2860.215,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-81958427",
+      "cn_code": "28070010",
+      "quantity": 664.332,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4489.047,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-04165465",
+      "cn_code": "31021000",
+      "quantity": 762.425,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4715.28,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-16624404",
+      "cn_code": "27160000",
+      "quantity": 300.407,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3531.219,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-75319048",
+      "cn_code": "25232900",
+      "quantity": 544.418,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1161.511,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-70915577",
+      "cn_code": "72083900",
+      "quantity": 759.559,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4751.114,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-31957645",
+      "cn_code": "76011000",
+      "quantity": 778.118,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1855.29,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-66274107",
+      "cn_code": "28070010",
+      "quantity": 605.712,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4256.227,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-74770999",
+      "cn_code": "31021000",
+      "quantity": 954.441,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4131.087,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-69139373",
+      "cn_code": "27160000",
+      "quantity": 169.82,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1877.502,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-15734693",
+      "cn_code": "25232900",
+      "quantity": 796.739,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4819.457,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-13487496",
+      "cn_code": "72083900",
+      "quantity": 943.742,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4223.376,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-43453297",
+      "cn_code": "76011000",
+      "quantity": 602.455,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3049.737,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-46795041",
+      "cn_code": "28070010",
+      "quantity": 356.321,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1772.088,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-87824264",
+      "cn_code": "31021000",
+      "quantity": 398.82,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4408.396,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-22375078",
+      "cn_code": "27160000",
+      "quantity": 707.358,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4700.33,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-99332848",
+      "cn_code": "25232900",
+      "quantity": 474.789,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3321.827,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-45006919",
+      "cn_code": "72083900",
+      "quantity": 454.445,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1004.044,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-83292858",
+      "cn_code": "76011000",
+      "quantity": 333.563,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 248.153,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-50292423",
+      "cn_code": "28070010",
+      "quantity": 616.949,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2137.17,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-32824959",
+      "cn_code": "31021000",
+      "quantity": 399.672,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 714.005,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-33077837",
+      "cn_code": "27160000",
+      "quantity": 806.402,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1305.882,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-06265978",
+      "cn_code": "25232900",
+      "quantity": 891.534,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1137.025,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-44603832",
+      "cn_code": "72083900",
+      "quantity": 93.854,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 132.324,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-54033125",
+      "cn_code": "76011000",
+      "quantity": 366.315,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3259.018,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-10509468",
+      "cn_code": "28070010",
+      "quantity": 968.511,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4886.367,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-66377045",
+      "cn_code": "31021000",
+      "quantity": 448.649,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1550.885,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-57162561",
+      "cn_code": "27160000",
+      "quantity": 178.094,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2107.207,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-36421088",
+      "cn_code": "25232900",
+      "quantity": 129.846,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2122.803,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-47261197",
+      "cn_code": "72083900",
+      "quantity": 188.17,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1148.234,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-05065709",
+      "cn_code": "76011000",
+      "quantity": 974.82,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2431.198,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-73806603",
+      "cn_code": "28070010",
+      "quantity": 321.232,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 454.423,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-61616365",
+      "cn_code": "31021000",
+      "quantity": 707.795,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3349.338,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-49174103",
+      "cn_code": "27160000",
+      "quantity": 230.28,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2644.404,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-54005319",
+      "cn_code": "25232900",
+      "quantity": 156.159,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2495.223,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-56926862",
+      "cn_code": "72083900",
+      "quantity": 994.439,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4523.442,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-29488001",
+      "cn_code": "76011000",
+      "quantity": 398.752,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 222.593,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-91546047",
+      "cn_code": "28070010",
+      "quantity": 2.113,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 326.225,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-49036035",
+      "cn_code": "31021000",
+      "quantity": 106.329,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2507.425,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-88247765",
+      "cn_code": "27160000",
+      "quantity": 175.023,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3463.291,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-80126006",
+      "cn_code": "25232900",
+      "quantity": 412.443,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 743.021,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-95433497",
+      "cn_code": "72083900",
+      "quantity": 578.322,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3476.519,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-49874558",
+      "cn_code": "76011000",
+      "quantity": 24.863,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4639.189,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-12363138",
+      "cn_code": "28070010",
+      "quantity": 605.852,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 603.341,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-97707028",
+      "cn_code": "31021000",
+      "quantity": 46.814,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 43.546,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-60229808",
+      "cn_code": "27160000",
+      "quantity": 972.409,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1146.08,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-15336169",
+      "cn_code": "25232900",
+      "quantity": 453.227,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 838.92,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-34935768",
+      "cn_code": "72083900",
+      "quantity": 201.594,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4890.916,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-92131946",
+      "cn_code": "76011000",
+      "quantity": 334.939,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2142.034,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-44529296",
+      "cn_code": "28070010",
+      "quantity": 478.86,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2630.27,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-66224708",
+      "cn_code": "31021000",
+      "quantity": 945.432,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 812.887,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-89503679",
+      "cn_code": "27160000",
+      "quantity": 464.232,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3120.914,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-68709717",
+      "cn_code": "25232900",
+      "quantity": 362.819,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 470.703,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-41057223",
+      "cn_code": "72083900",
+      "quantity": 219.824,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 642.83,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-55677125",
+      "cn_code": "76011000",
+      "quantity": 628.164,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1392.373,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-91890133",
+      "cn_code": "28070010",
+      "quantity": 784.113,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3436.094,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-50586619",
+      "cn_code": "31021000",
+      "quantity": 732.027,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2116.837,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-59147248",
+      "cn_code": "27160000",
+      "quantity": 872.73,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2898.501,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-08676436",
+      "cn_code": "25232900",
+      "quantity": 292.653,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2469.611,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-57580399",
+      "cn_code": "72083900",
+      "quantity": 174.163,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3814.155,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-55649281",
+      "cn_code": "76011000",
+      "quantity": 698.858,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4686.655,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-29526632",
+      "cn_code": "28070010",
+      "quantity": 896.911,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4448.28,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-42147134",
+      "cn_code": "31021000",
+      "quantity": 823.048,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3953.538,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-55149750",
+      "cn_code": "27160000",
+      "quantity": 435.061,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1894.869,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-45139508",
+      "cn_code": "25232900",
+      "quantity": 961.072,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2823.091,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-86725063",
+      "cn_code": "72083900",
+      "quantity": 479.561,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4009.95,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-54926721",
+      "cn_code": "76011000",
+      "quantity": 970.281,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1276.492,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-91792824",
+      "cn_code": "28070010",
+      "quantity": 438.121,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1307.787,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-70899561",
+      "cn_code": "31021000",
+      "quantity": 23.938,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4642.752,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-46001554",
+      "cn_code": "27160000",
+      "quantity": 592.864,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2235.189,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-90704010",
+      "cn_code": "25232900",
+      "quantity": 696.632,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3135.555,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-76894429",
+      "cn_code": "72083900",
+      "quantity": 193.88,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2202.159,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-82900176",
+      "cn_code": "76011000",
+      "quantity": 913.513,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1446.893,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-04210574",
+      "cn_code": "28070010",
+      "quantity": 526.706,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3798.925,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-47111070",
+      "cn_code": "31021000",
+      "quantity": 806.278,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4611.886,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-21227479",
+      "cn_code": "27160000",
+      "quantity": 185.768,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2214.782,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-18791530",
+      "cn_code": "25232900",
+      "quantity": 91.278,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1562.394,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-31890206",
+      "cn_code": "72083900",
+      "quantity": 978.219,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4582.592,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-99419082",
+      "cn_code": "76011000",
+      "quantity": 667.87,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1288.515,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-19757871",
+      "cn_code": "28070010",
+      "quantity": 958.491,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1684.129,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-77396739",
+      "cn_code": "31021000",
+      "quantity": 728.823,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1267.671,
+      "country_of_origin": "MA"
+    },
+    {
+      "declaration_id": "CBAM-71057361",
+      "cn_code": "27160000",
+      "quantity": 944.103,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 2611.633,
+      "country_of_origin": "CN"
+    },
+    {
+      "declaration_id": "CBAM-83557752",
+      "cn_code": "25232900",
+      "quantity": 624.07,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4076.108,
+      "country_of_origin": "IN"
+    },
+    {
+      "declaration_id": "CBAM-25403937",
+      "cn_code": "72083900",
+      "quantity": 757.928,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 1621.26,
+      "country_of_origin": "TR"
+    },
+    {
+      "declaration_id": "CBAM-71171061",
+      "cn_code": "76011000",
+      "quantity": 200.398,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 4548.847,
+      "country_of_origin": "UA"
+    },
+    {
+      "declaration_id": "CBAM-66080686",
+      "cn_code": "28070010",
+      "quantity": 719.457,
+      "unit": "tonne",
+      "embedded_emissions_kgco2e": 3330.88,
+      "country_of_origin": "MA"
+    }
+  ]
+}
